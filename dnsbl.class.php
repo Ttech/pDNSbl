@@ -85,6 +85,9 @@ class DNSbl {
 		
 	*/
 	public function dnsbls($list){
+		// our list is an array of the DNSbls to look up the ip provided
+		// in DNSbl::multi_check
+
 		if(is_array($list)){
 			$this->dnsbls = $list;
 		} else {
