@@ -1,0 +1,12 @@
+pDNSbl is a simple php class that provides easy lookup to DNSbl results
+it can handle multiple lookups from multiple DNSbl site such as:
+efnetrbl, dronebl, spamhus, and many more!
+
+This is the first version, so the examples and extras are not as much
+as I would hope for. Expect to find a sample IRC bot to check users
+that a) join b) connect to a IRC Network or Channel. 
+
+Later versions expect a CodeIgniter class. 
+
+Suggestions welcome. 
+	Enjoy!
